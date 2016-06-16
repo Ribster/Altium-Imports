@@ -1,0 +1,126 @@
+Importer Log Report
+Project : pyboard.PrjPcb
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pyboard.brd
+    Analyzing data of D:\Github\pyboard\eagle\pyboard.brd
+    Load settings
+    Load layers 94
+    Load Library "pyboard"
+    Load Packages 10
+    Load Library "rcl"
+    Load Packages 3
+    Load Library "pinhead"
+    Load Packages 5
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pyboard.sch
+    Analyzing data of D:\Github\pyboard\eagle\pyboard.sch
+    Load settings
+    Load layers 94
+    Load schematic
+    Load Libraries 4
+    Load Library "rcl"
+    Load Packages 164
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "pyboard"
+    Load Packages 10
+    Load Symbols 9
+    Load DeviceSets 9
+    Load Library "pinhead"
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 91
+    Load Sheets 1
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pinhead.lbr
+    Analyzing data of D:\Github\pyboard\eagle\pinhead.lbr
+    Load settings
+    Load layers 94
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pyboard.lbr
+    Analyzing data of D:\Github\pyboard\eagle\pyboard.lbr
+    Load settings
+    Load layers 94
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 9
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\rcl.lbr
+    Analyzing data of D:\Github\pyboard\eagle\rcl.lbr
+    Load settings
+    Load layers 94
+    Load Library library
+    Load Library ""
+    Load Packages 164
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\supply1.lbr
+    Analyzing data of D:\Github\pyboard\eagle\supply1.lbr
+    Load settings
+    Load layers 94
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pyboard.brd
+    Analyzing data of D:\Github\pyboard\eagle\pyboard.brd
+    Load settings
+    Load layers 94
+    Load Library "pyboard"
+    Load Packages 10
+    Load Library "rcl"
+    Load Packages 3
+    Load Library "pinhead"
+    Load Packages 5
+EndSection
+
+Section : Analyze Document - D:\Github\pyboard\eagle\pyboard.sch
+    Analyzing data of D:\Github\pyboard\eagle\pyboard.sch
+    Load settings
+    Load layers 94
+    Load schematic
+    Load Libraries 4
+    Load Library "rcl"
+    Load Packages 164
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "pyboard"
+    Load Packages 10
+    Load Symbols 9
+    Load DeviceSets 9
+    Load Library "pinhead"
+    Load Packages 9
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 91
+    Load Sheets 1
+EndSection
