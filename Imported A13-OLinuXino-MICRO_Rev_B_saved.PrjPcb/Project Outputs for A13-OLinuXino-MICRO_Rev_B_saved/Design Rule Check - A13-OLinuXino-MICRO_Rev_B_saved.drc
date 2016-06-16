@@ -1,0 +1,567 @@
+Protel Design System Design Rule Check
+PCB File : D:\Github\OLINUXINO\HARDWARE\A13-OLinuXino-MICRO\Imported A13-OLinuXino-MICRO_Rev_B_saved.PrjPcb\A13-OLinuXino-MICRO_Rev_B_saved.PcbDoc
+Date     : 31/05/2016
+Time     : 16:31:01
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Track (2981mil,1771mil)(2992mil,1771mil) on Top And Arc (2992mil,1765mil) on Top Location : [X = 2992mil][Y = 1771mil]
+   Violation between Short-Circuit Constraint: Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (3004mil,1765mil) on Top Location : [X = 3004mil][Y = 1759mil]
+   Violation between Short-Circuit Constraint: Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (3007mil,1765mil) on Top Location : [X = 3007mil][Y = 1759mil]
+   Violation between Short-Circuit Constraint: Between Track (3019mil,1771mil)(3022mil,1771mil) on Top And Arc (3019mil,1765mil) on Top Location : [X = 3019mil][Y = 1771mil]
+   Violation between Short-Circuit Constraint: Between Track (3019mil,1771mil)(3022mil,1771mil) on Top And Arc (3022mil,1765mil) on Top Location : [X = 3022mil][Y = 1771mil]
+   Violation between Short-Circuit Constraint: Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3022mil,1765mil) on Top Location : [X = 3028mil][Y = 1765mil]
+   Violation between Short-Circuit Constraint: Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3034mil,1717mil) on Top Location : [X = 3028mil][Y = 1717mil]
+   Violation between Short-Circuit Constraint: Between Track (3034mil,1711mil)(3037mil,1711mil) on Top And Arc (3034mil,1717mil) on Top Location : [X = 3034mil][Y = 1711mil]
+   Violation between Short-Circuit Constraint: Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3037mil,1717mil) on Top Location : [X = 3043mil][Y = 1717mil]
+   Violation between Short-Circuit Constraint: Between Track (3034mil,1711mil)(3037mil,1711mil) on Top And Arc (3037mil,1717mil) on Top Location : [X = 3037mil][Y = 1711mil]
+   Violation between Short-Circuit Constraint: Between Track (3049mil,1754mil)(3052mil,1754mil) on Top And Arc (3049mil,1748mil) on Top Location : [X = 3049mil][Y = 1754mil]
+   Violation between Short-Circuit Constraint: Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3049mil,1748mil) on Top Location : [X = 3043mil][Y = 1748mil]
+   Violation between Short-Circuit Constraint: Between Track (3058mil,1717mil)(3058mil,1748mil) on Top And Arc (3052mil,1748mil) on Top Location : [X = 3058mil][Y = 1748mil]
+   Violation between Short-Circuit Constraint: Between Track (3049mil,1754mil)(3052mil,1754mil) on Top And Arc (3052mil,1748mil) on Top Location : [X = 3052mil][Y = 1754mil]
+   Violation between Short-Circuit Constraint: Between Track (3058mil,1717mil)(3058mil,1748mil) on Top And Arc (3064mil,1717mil) on Top Location : [X = 3058mil][Y = 1717mil]
+   Violation between Short-Circuit Constraint: Between Track (3064mil,1711mil)(3191.3mil,1711mil) on Top And Arc (3064mil,1717mil) on Top Location : [X = 3064mil][Y = 1711mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2140mil)(3416.5mil,2140mil) on Top And Arc (3412mil,2134mil) on Top Location : [X = 3412mil][Y = 2140mil]
+   Violation between Short-Circuit Constraint: Between Track (3406mil,2126.7mil)(3406mil,2134mil) on Top And Arc (3412mil,2134mil) on Top Location : [X = 3406mil][Y = 2134mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2140mil)(3416.5mil,2140mil) on Top And Arc (3416.5mil,2146mil) on Top Location : [X = 3416.5mil][Y = 2140mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3416.5mil,2146mil) on Top Location : [X = 3416.5mil][Y = 2152mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3412mil,2158mil) on Top Location : [X = 3412mil][Y = 2152mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2164mil)(3427mil,2164mil) on Top And Arc (3412mil,2158mil) on Top Location : [X = 3412mil][Y = 2164mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2164mil)(3427mil,2164mil) on Top And Arc (3427mil,2170mil) on Top Location : [X = 3427mil][Y = 2164mil]
+   Violation between Short-Circuit Constraint: Between Track (3433mil,2170mil)(3433mil,2266mil) on Top And Arc (3427mil,2170mil) on Top Location : [X = 3433mil][Y = 2170mil]
+   Violation between Short-Circuit Constraint: Between Track (3412.5mil,2272mil)(3427mil,2272mil) on Top And Arc (3427mil,2266mil) on Top Location : [X = 3427mil][Y = 2272mil]
+   Violation between Short-Circuit Constraint: Between Track (3433mil,2170mil)(3433mil,2266mil) on Top And Arc (3427mil,2266mil) on Top Location : [X = 3433mil][Y = 2266mil]
+   Violation between Short-Circuit Constraint: Between Track (3412.5mil,2272mil)(3427mil,2272mil) on Top And Arc (3412.5mil,2278.5mil) on Top Location : [X = 3412.5mil][Y = 2272mil]
+   Violation between Short-Circuit Constraint: Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3411.504mil,2278.496mil) on Top Location : [X = 3411.5mil][Y = 2284mil]
+   Violation between Short-Circuit Constraint: Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3433mil,2290mil) on Top Location : [X = 3433mil][Y = 2284mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3433mil,2290mil) on Top Location : [X = 3433mil][Y = 2296mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3412mil,2302mil) on Top Location : [X = 3412mil][Y = 2296mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3412mil,2302mil) on Top Location : [X = 3412mil][Y = 2308mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3433mil,2314mil) on Top Location : [X = 3433mil][Y = 2308mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3433mil,2314mil) on Top Location : [X = 3433mil][Y = 2320mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3412mil,2326mil) on Top Location : [X = 3412mil][Y = 2320mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3412mil,2326mil) on Top Location : [X = 3412mil][Y = 2332mil]
+   Violation between Short-Circuit Constraint: Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3429.5mil,2338mil) on Top Location : [X = 3429.5mil][Y = 2332mil]
+   Violation between Short-Circuit Constraint: Between Track (3337mil,2344mil)(3429.5mil,2344mil) on Top And Arc (3429.5mil,2338mil) on Top Location : [X = 3429.5mil][Y = 2344mil]
+   Violation between Short-Circuit Constraint: Between Track (3016mil,1705mil)(3016mil,1741mil) on Top And Arc (3010mil,1741mil) on Top Location : [X = 3016mil][Y = 1741mil]
+   Violation between Short-Circuit Constraint: Between Track (3007mil,1747mil)(3010mil,1747mil) on Top And Arc (3010mil,1741mil) on Top Location : [X = 3010mil][Y = 1747mil]
+   Violation between Short-Circuit Constraint: Between Track (3016mil,1705mil)(3016mil,1741mil) on Top And Arc (3022mil,1705mil) on Top Location : [X = 3016mil][Y = 1705mil]
+   Violation between Short-Circuit Constraint: Between Track (3022mil,1699mil)(3235mil,1699mil) on Top And Arc (3022mil,1705mil) on Top Location : [X = 3022mil][Y = 1699mil]
+   Violation between Short-Circuit Constraint: Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (3007mil,1741mil) on Top Location : [X = 3001mil][Y = 1741mil]
+   Violation between Short-Circuit Constraint: Between Track (3007mil,1747mil)(3010mil,1747mil) on Top And Arc (3007mil,1741mil) on Top Location : [X = 3007mil][Y = 1747mil]
+   Violation between Short-Circuit Constraint: Between Track (2992mil,1729mil)(2995mil,1729mil) on Top And Arc (2995mil,1735mil) on Top Location : [X = 2995mil][Y = 1729mil]
+   Violation between Short-Circuit Constraint: Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (2995mil,1735mil) on Top Location : [X = 3001mil][Y = 1735mil]
+   Violation between Short-Circuit Constraint: Between Track (2986mil,1735mil)(2986mil,1756mil) on Top And Arc (2992mil,1735mil) on Top Location : [X = 2986mil][Y = 1735mil]
+   Violation between Short-Circuit Constraint: Between Track (2992mil,1729mil)(2995mil,1729mil) on Top And Arc (2992mil,1735mil) on Top Location : [X = 2992mil][Y = 1729mil]
+   Violation between Short-Circuit Constraint: Between Track (3367mil,2362mil)(3367mil,2371mil) on Top And Arc (3373mil,2362mil) on Top Location : [X = 3367mil][Y = 2362mil]
+   Violation between Short-Circuit Constraint: Between Track (3373mil,2356mil)(3437mil,2356mil) on Top And Arc (3373mil,2362mil) on Top Location : [X = 3373mil][Y = 2356mil]
+   Violation between Short-Circuit Constraint: Between Track (3367mil,2362mil)(3367mil,2371mil) on Top And Arc (3361mil,2371mil) on Top Location : [X = 3367mil][Y = 2371mil]
+   Violation between Short-Circuit Constraint: Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3361mil,2371mil) on Top Location : [X = 3355mil][Y = 2371mil]
+   Violation between Short-Circuit Constraint: Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3349mil,2362mil) on Top Location : [X = 3355mil][Y = 2362mil]
+   Violation between Short-Circuit Constraint: Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3349mil,2362mil) on Top Location : [X = 3343mil][Y = 2362mil]
+   Violation between Short-Circuit Constraint: Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3337mil,2377mil) on Top Location : [X = 3331mil][Y = 2377mil]
+   Violation between Short-Circuit Constraint: Between Track (3283mil,2366mil)(3283mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top Location : [X = 3283mil][Y = 2390.6mil]
+   Violation between Short-Circuit Constraint: Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top Location : [X = 3295mil][Y = 2390.6mil]
+   Violation between Short-Circuit Constraint: Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3301mil,2374mil) on Top Location : [X = 3295mil][Y = 2374mil]
+   Violation between Short-Circuit Constraint: Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3301mil,2374mil) on Top Location : [X = 3307mil][Y = 2374mil]
+   Violation between Short-Circuit Constraint: Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3313mil,2392mil) on Top Location : [X = 3307mil][Y = 2392mil]
+   Violation between Short-Circuit Constraint: Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3313mil,2392mil) on Top Location : [X = 3319mil][Y = 2392mil]
+   Violation between Short-Circuit Constraint: Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3325mil,2357.5mil) on Top Location : [X = 3319mil][Y = 2357.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3325mil,2357.5mil) on Top Location : [X = 3331mil][Y = 2357.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3337mil,2377mil) on Top Location : [X = 3343mil][Y = 2377mil]
+   Violation between Short-Circuit Constraint: Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top Location : [X = 3283mil][Y = 2414.6mil]
+   Violation between Short-Circuit Constraint: Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3277mil,2425mil) on Top Location : [X = 3283mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3271mil,2361mil)(3271mil,2425mil) on Top And Arc (3277mil,2425mil) on Top Location : [X = 3271mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top Location : [X = 3295mil][Y = 2414.6mil]
+   Violation between Short-Circuit Constraint: Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3301mil,2425mil) on Top Location : [X = 3295mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3301mil,2425mil) on Top Location : [X = 3307mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3313mil,2416mil) on Top Location : [X = 3307mil][Y = 2416mil]
+   Violation between Short-Circuit Constraint: Between Track (3331mil,2401mil)(3331mil,2425mil) on Top And Arc (3337mil,2401mil) on Top Location : [X = 3331mil][Y = 2401mil]
+   Violation between Short-Circuit Constraint: Between Track (3337mil,2395mil)(3362.5mil,2395mil) on Top And Arc (3337mil,2401mil) on Top Location : [X = 3337mil][Y = 2395mil]
+   Violation between Short-Circuit Constraint: Between Track (3331mil,2401mil)(3331mil,2425mil) on Top And Arc (3325mil,2425mil) on Top Location : [X = 3331mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3325mil,2425mil) on Top Location : [X = 3319mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3313mil,2416mil) on Top Location : [X = 3319mil][Y = 2416mil]
+   Violation between Short-Circuit Constraint: Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3304mil,2158mil) on Top Location : [X = 3298mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3304mil,2158mil) on Top Location : [X = 3310mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3316mil,2128mil) on Top Location : [X = 3310mil][Y = 2128mil]
+   Violation between Short-Circuit Constraint: Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3316mil,2128mil) on Top Location : [X = 3322mil][Y = 2128mil]
+   Violation between Short-Circuit Constraint: Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3328mil,2158mil) on Top Location : [X = 3322mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3328mil,2158mil) on Top Location : [X = 3334mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3217mil,2182mil)(3217mil,2193.5mil) on Top And Arc (3223mil,2182mil) on Top Location : [X = 3217mil][Y = 2182mil]
+   Violation between Short-Circuit Constraint: Between Track (3223mil,2176mil)(3364mil,2176mil) on Top And Arc (3223mil,2182mil) on Top Location : [X = 3223mil][Y = 2176mil]
+   Violation between Short-Circuit Constraint: Between Track (3217mil,2182mil)(3217mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top Location : [X = 3217mil][Y = 2193.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top Location : [X = 3205mil][Y = 2193.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3199mil,2182mil) on Top Location : [X = 3205mil][Y = 2182mil]
+   Violation between Short-Circuit Constraint: Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3199mil,2182mil) on Top Location : [X = 3193mil][Y = 2182mil]
+   Violation between Short-Circuit Constraint: Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3187mil,2217mil) on Top Location : [X = 3193mil][Y = 2217mil]
+   Violation between Short-Circuit Constraint: Between Track (3181mil,2182mil)(3181mil,2217mil) on Top And Arc (3187mil,2217mil) on Top Location : [X = 3181mil][Y = 2217mil]
+   Violation between Short-Circuit Constraint: Between Track (3181mil,2182mil)(3181mil,2217mil) on Top And Arc (3175mil,2182mil) on Top Location : [X = 3181mil][Y = 2182mil]
+   Violation between Short-Circuit Constraint: Between Track (3113mil,2176mil)(3175mil,2176mil) on Top And Arc (3175mil,2182mil) on Top Location : [X = 3175mil][Y = 2176mil]
+   Violation between Short-Circuit Constraint: Between Track (3274mil,2105.8mil)(3274mil,2119mil) on Top And Arc (3280mil,2119mil) on Top Location : [X = 3274mil][Y = 2119mil]
+   Violation between Short-Circuit Constraint: Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3280mil,2119mil) on Top Location : [X = 3286mil][Y = 2119mil]
+   Violation between Short-Circuit Constraint: Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3292mil,2117.5mil) on Top Location : [X = 3298mil][Y = 2117.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3292mil,2117.5mil) on Top Location : [X = 3286mil][Y = 2117.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3340mil,2128mil) on Top Location : [X = 3334mil][Y = 2128mil]
+   Violation between Short-Circuit Constraint: Between Track (3370mil,2145.4mil)(3370mil,2170mil) on Top And Arc (3364mil,2170mil) on Top Location : [X = 3370mil][Y = 2170mil]
+   Violation between Short-Circuit Constraint: Between Track (3223mil,2176mil)(3364mil,2176mil) on Top And Arc (3364mil,2170mil) on Top Location : [X = 3364mil][Y = 2176mil]
+   Violation between Short-Circuit Constraint: Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3340mil,2128mil) on Top Location : [X = 3346mil][Y = 2128mil]
+   Violation between Short-Circuit Constraint: Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3352mil,2158mil) on Top Location : [X = 3346mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3352mil,2158mil) on Top Location : [X = 3358mil][Y = 2158mil]
+   Violation between Short-Circuit Constraint: Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3364mil,2145.4mil) on Top Location : [X = 3358mil][Y = 2145.4mil]
+   Violation between Short-Circuit Constraint: Between Track (3370mil,2145.4mil)(3370mil,2170mil) on Top And Arc (3364mil,2145.4mil) on Top Location : [X = 3370mil][Y = 2145.4mil]
+   Violation between Short-Circuit Constraint: Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (2992mil,1803mil) on Top Location : [X = 2998mil][Y = 1803mil]
+   Violation between Short-Circuit Constraint: Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (3004mil,1822mil) on Top Location : [X = 2998mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3004mil,1822mil) on Top Location : [X = 3010mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3016mil,1801mil) on Top Location : [X = 3010mil][Y = 1801mil]
+   Violation between Short-Circuit Constraint: Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3016mil,1801mil) on Top Location : [X = 3022mil][Y = 1801mil]
+   Violation between Short-Circuit Constraint: Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3028mil,1822mil) on Top Location : [X = 3022mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3028mil,1822mil) on Top Location : [X = 3034mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3040mil,1798mil) on Top Location : [X = 3034mil][Y = 1798mil]
+   Violation between Short-Circuit Constraint: Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3040mil,1798mil) on Top Location : [X = 3046mil][Y = 1798mil]
+   Violation between Short-Circuit Constraint: Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3052mil,1822mil) on Top Location : [X = 3046mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3052mil,1822mil) on Top Location : [X = 3058mil][Y = 1822mil]
+   Violation between Short-Circuit Constraint: Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3064mil,1784mil) on Top Location : [X = 3058mil][Y = 1784mil]
+   Violation between Short-Circuit Constraint: Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3064mil,1784mil) on Top Location : [X = 3070mil][Y = 1784mil]
+   Violation between Short-Circuit Constraint: Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3076mil,1809mil) on Top Location : [X = 3070mil][Y = 1809mil]
+   Violation between Short-Circuit Constraint: Between Track (3082mil,1776mil)(3082mil,1809mil) on Top And Arc (3076mil,1809mil) on Top Location : [X = 3082mil][Y = 1809mil]
+   Violation between Short-Circuit Constraint: Between Track (2986mil,1803mil)(2986mil,1834mil) on Top And Arc (2992mil,1803mil) on Top Location : [X = 2986mil][Y = 1803mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2176mil)(3415mil,2176mil) on Top And Arc (3400mil,2170mil) on Top Location : [X = 3400mil][Y = 2176mil]
+   Violation between Short-Circuit Constraint: Between Track (3394mil,2131.69mil)(3394mil,2170mil) on Top And Arc (3400mil,2170mil) on Top Location : [X = 3394mil][Y = 2170mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3400mil,2194mil) on Top Location : [X = 3400mil][Y = 2188mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3400mil,2194mil) on Top Location : [X = 3400mil][Y = 2200mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3400mil,2218mil) on Top Location : [X = 3400mil][Y = 2212mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3400mil,2242mil) on Top Location : [X = 3400mil][Y = 2248mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3400mil,2242mil) on Top Location : [X = 3400mil][Y = 2236mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3415mil,2230mil) on Top Location : [X = 3415mil][Y = 2236mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3415mil,2230mil) on Top Location : [X = 3415mil][Y = 2224mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3400mil,2218mil) on Top Location : [X = 3400mil][Y = 2224mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3415mil,2206mil) on Top Location : [X = 3415mil][Y = 2212mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3415mil,2206mil) on Top Location : [X = 3415mil][Y = 2200mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2176mil)(3415mil,2176mil) on Top And Arc (3415mil,2182mil) on Top Location : [X = 3415mil][Y = 2176mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3415mil,2182mil) on Top Location : [X = 3415mil][Y = 2188mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3415mil,2254mil) on Top Location : [X = 3415mil][Y = 2248mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2260mil)(3415mil,2260mil) on Top And Arc (3415mil,2254mil) on Top Location : [X = 3415mil][Y = 2260mil]
+   Violation between Short-Circuit Constraint: Between Track (3400mil,2260mil)(3415mil,2260mil) on Top And Arc (3400mil,2266mil) on Top Location : [X = 3400mil][Y = 2260mil]
+   Violation between Short-Circuit Constraint: Between Track (3394mil,2266mil)(3394mil,2327mil) on Top And Arc (3400mil,2266mil) on Top Location : [X = 3394mil][Y = 2266mil]
+   Violation between Short-Circuit Constraint: Between Track (2859mil,1825mil)(2859mil,1828mil) on Top And Arc (2865mil,1828mil) on Top Location : [X = 2859mil][Y = 1828mil]
+   Violation between Short-Circuit Constraint: Between Track (2865mil,1834mil)(2909.5mil,1834mil) on Top And Arc (2865mil,1828mil) on Top Location : [X = 2865mil][Y = 1834mil]
+   Violation between Short-Circuit Constraint: Between Track (2859mil,1825mil)(2859mil,1828mil) on Top And Arc (2865mil,1825mil) on Top Location : [X = 2859mil][Y = 1825mil]
+   Violation between Short-Circuit Constraint: Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2865mil,1825mil) on Top Location : [X = 2865mil][Y = 1819mil]
+   Violation between Short-Circuit Constraint: Between Track (3115mil,1728mil)(3115mil,1729mil) on Top And Arc (3120mil,1728mil) on Top Location : [X = 3115mil][Y = 1728mil]
+   Violation between Short-Circuit Constraint: Between Track (3120mil,1723mil)(3139.61mil,1723mil) on Top And Arc (3120mil,1728mil) on Top Location : [X = 3120mil][Y = 1723mil]
+   Violation between Short-Circuit Constraint: Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3109mil,1729mil) on Top Location : [X = 3109mil][Y = 1735mil]
+   Violation between Short-Circuit Constraint: Between Track (3115mil,1728mil)(3115mil,1729mil) on Top And Arc (3109mil,1729mil) on Top Location : [X = 3115mil][Y = 1729mil]
+   Violation between Short-Circuit Constraint: Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3106mil,1729mil) on Top Location : [X = 3106mil][Y = 1735mil]
+   Violation between Short-Circuit Constraint: Between Track (3076.5mil,1723mil)(3094mil,1723mil) on Top And Arc (3094mil,1729mil) on Top Location : [X = 3094mil][Y = 1723mil]
+   Violation between Short-Circuit Constraint: Between Track (2923mil,1825mil)(2923mil,1828mil) on Top And Arc (2917mil,1825mil) on Top Location : [X = 2923mil][Y = 1825mil]
+   Violation between Short-Circuit Constraint: Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2917mil,1825mil) on Top Location : [X = 2917mil][Y = 1819mil]
+   Violation between Short-Circuit Constraint: Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2929mil,1828mil) on Top Location : [X = 2929mil][Y = 1834mil]
+   Violation between Short-Circuit Constraint: Between Track (2923mil,1825mil)(2923mil,1828mil) on Top And Arc (2929mil,1828mil) on Top Location : [X = 2923mil][Y = 1828mil]
+   Violation between Short-Circuit Constraint: Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2932mil,1828mil) on Top Location : [X = 2938mil][Y = 1828mil]
+   Violation between Short-Circuit Constraint: Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2932mil,1828mil) on Top Location : [X = 2932mil][Y = 1834mil]
+   Violation between Short-Circuit Constraint: Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2944mil,1825mil) on Top Location : [X = 2944mil][Y = 1819mil]
+   Violation between Short-Circuit Constraint: Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2944mil,1825mil) on Top Location : [X = 2938mil][Y = 1825mil]
+   Violation between Short-Circuit Constraint: Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2947mil,1825mil) on Top Location : [X = 2953mil][Y = 1825mil]
+   Violation between Short-Circuit Constraint: Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2947mil,1825mil) on Top Location : [X = 2947mil][Y = 1819mil]
+   Violation between Short-Circuit Constraint: Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2959mil,1828mil) on Top Location : [X = 2953mil][Y = 1828mil]
+   Violation between Short-Circuit Constraint: Between Track (2959mil,1834mil)(2962mil,1834mil) on Top And Arc (2959mil,1828mil) on Top Location : [X = 2959mil][Y = 1834mil]
+   Violation between Short-Circuit Constraint: Between Track (2968mil,1801mil)(2968mil,1828mil) on Top And Arc (2962mil,1828mil) on Top Location : [X = 2968mil][Y = 1828mil]
+   Violation between Short-Circuit Constraint: Between Track (2959mil,1834mil)(2962mil,1834mil) on Top And Arc (2962mil,1828mil) on Top Location : [X = 2962mil][Y = 1834mil]
+   Violation between Short-Circuit Constraint: Between Track (3166mil,2074mil)(3166mil,2146mil) on Top And Arc (3172mil,2146mil) on Top Location : [X = 3166mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3172mil,2146mil) on Top Location : [X = 3178mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3184mil,2080mil) on Top Location : [X = 3178mil][Y = 2080mil]
+   Violation between Short-Circuit Constraint: Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3184mil,2080mil) on Top Location : [X = 3190mil][Y = 2080mil]
+   Violation between Short-Circuit Constraint: Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3196mil,2146mil) on Top Location : [X = 3190mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3196mil,2146mil) on Top Location : [X = 3202mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3208mil,2101mil) on Top Location : [X = 3202mil][Y = 2101mil]
+   Violation between Short-Circuit Constraint: Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3208mil,2101mil) on Top Location : [X = 3214mil][Y = 2101mil]
+   Violation between Short-Circuit Constraint: Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3220mil,2146mil) on Top Location : [X = 3214mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3220mil,2146mil) on Top Location : [X = 3226mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3232mil,2107mil) on Top Location : [X = 3226mil][Y = 2107mil]
+   Violation between Short-Circuit Constraint: Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3232mil,2107mil) on Top Location : [X = 3238mil][Y = 2107mil]
+   Violation between Short-Circuit Constraint: Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3244mil,2146mil) on Top Location : [X = 3238mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3244mil,2146mil) on Top Location : [X = 3250mil][Y = 2146mil]
+   Violation between Short-Circuit Constraint: Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top Location : [X = 3250mil][Y = 2113.5mil]
+   Violation between Short-Circuit Constraint: Between Track (3262mil,2113.5mil)(3262mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top Location : [X = 3262mil][Y = 2113.5mil]
+Rule Violations :178
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4.5mil) (Max=100000mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=100000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.201mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2981mil,1771mil)(2992mil,1771mil) on Top And Arc (2992mil,1765mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (2992mil,1765mil) on Top 
+   Violation between Clearance Constraint: (5mil < 5.201mil) Between Track (2948.47mil,1803.53mil)(2981mil,1771mil) on Top And Arc (2992mil,1765mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (2981mil,1771mil)(2992mil,1771mil) on Top And Arc (3004mil,1765mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (3004mil,1765mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3019mil,1771mil)(3022mil,1771mil) on Top And Arc (3007mil,1765mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (3007mil,1765mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3019mil,1771mil)(3022mil,1771mil) on Top And Arc (3019mil,1765mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3019mil,1765mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3004mil,1759mil)(3007mil,1759mil) on Top And Arc (3019mil,1765mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3019mil,1771mil)(3022mil,1771mil) on Top And Arc (3022mil,1765mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3022mil,1765mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3034mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3034mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3034mil,1711mil)(3037mil,1711mil) on Top And Arc (3034mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3037mil,1717mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3028mil,1717mil)(3028mil,1765mil) on Top And Arc (3037mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3034mil,1711mil)(3037mil,1711mil) on Top And Arc (3037mil,1717mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3058mil,1717mil)(3058mil,1748mil) on Top And Arc (3049mil,1748mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3049mil,1754mil)(3052mil,1754mil) on Top And Arc (3049mil,1748mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3049mil,1748mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3058mil,1717mil)(3058mil,1748mil) on Top And Arc (3052mil,1748mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3049mil,1754mil)(3052mil,1754mil) on Top And Arc (3052mil,1748mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3043mil,1717mil)(3043mil,1748mil) on Top And Arc (3052mil,1748mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3058mil,1717mil)(3058mil,1748mil) on Top And Arc (3064mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3064mil,1711mil)(3191.3mil,1711mil) on Top And Arc (3064mil,1717mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2140mil)(3416.5mil,2140mil) on Top And Arc (3412mil,2134mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3406mil,2126.7mil)(3406mil,2134mil) on Top And Arc (3412mil,2134mil) on Top 
+   Violation between Clearance Constraint: (1.3mil < 5.201mil) Between Track (3365.3mil,2086mil)(3406mil,2126.7mil) on Top And Arc (3412mil,2134mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3416.5mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2140mil)(3416.5mil,2140mil) on Top And Arc (3416.5mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3416.5mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2140mil)(3416.5mil,2140mil) on Top And Arc (3416.5mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3412mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2164mil)(3427mil,2164mil) on Top And Arc (3412mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2152mil)(3416.5mil,2152mil) on Top And Arc (3412mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2164mil)(3427mil,2164mil) on Top And Arc (3412mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2164mil)(3427mil,2164mil) on Top And Arc (3427mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3433mil,2170mil)(3433mil,2266mil) on Top And Arc (3427mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412.5mil,2272mil)(3427mil,2272mil) on Top And Arc (3427mil,2266mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3433mil,2170mil)(3433mil,2266mil) on Top And Arc (3427mil,2266mil) on Top 
+   Violation between Clearance Constraint: (1.778mil < 5.201mil) Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3412.5mil,2278.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412.5mil,2272mil)(3427mil,2272mil) on Top And Arc (3412.5mil,2278.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3411.504mil,2278.496mil) on Top 
+   Violation between Clearance Constraint: (3.192mil < 5.201mil) Between Track (3412.5mil,2272mil)(3427mil,2272mil) on Top And Arc (3411.504mil,2278.496mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3433mil,2290mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3433mil,2290mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3433mil,2290mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3411.5mil,2284mil)(3433mil,2284mil) on Top And Arc (3433mil,2290mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3412mil,2302mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3412mil,2302mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3412mil,2302mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2296mil)(3433mil,2296mil) on Top And Arc (3412mil,2302mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3433mil,2314mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3433mil,2314mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2308mil)(3433mil,2308mil) on Top And Arc (3433mil,2314mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3433mil,2314mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3412mil,2326mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3412mil,2326mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3412mil,2326mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2320mil)(3433mil,2320mil) on Top And Arc (3412mil,2326mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3429.5mil,2338mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3337mil,2344mil)(3429.5mil,2344mil) on Top And Arc (3429.5mil,2338mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3412mil,2332mil)(3429.5mil,2332mil) on Top And Arc (3429.5mil,2338mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3337mil,2344mil)(3429.5mil,2344mil) on Top And Arc (3429.5mil,2338mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (3010mil,1741mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3016mil,1705mil)(3016mil,1741mil) on Top And Arc (3010mil,1741mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3007mil,1747mil)(3010mil,1747mil) on Top And Arc (3010mil,1741mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3016mil,1705mil)(3016mil,1741mil) on Top And Arc (3022mil,1705mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3022mil,1699mil)(3235mil,1699mil) on Top And Arc (3022mil,1705mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (3007mil,1741mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3016mil,1705mil)(3016mil,1741mil) on Top And Arc (3007mil,1741mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3007mil,1747mil)(3010mil,1747mil) on Top And Arc (3007mil,1741mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2986mil,1735mil)(2986mil,1756mil) on Top And Arc (2995mil,1735mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2992mil,1729mil)(2995mil,1729mil) on Top And Arc (2995mil,1735mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (2995mil,1735mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2986mil,1735mil)(2986mil,1756mil) on Top And Arc (2992mil,1735mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2992mil,1729mil)(2995mil,1729mil) on Top And Arc (2992mil,1735mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3001mil,1735mil)(3001mil,1741mil) on Top And Arc (2992mil,1735mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3367mil,2362mil)(3367mil,2371mil) on Top And Arc (3373mil,2362mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3373mil,2356mil)(3437mil,2356mil) on Top And Arc (3373mil,2362mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3361mil,2371mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3367mil,2362mil)(3367mil,2371mil) on Top And Arc (3361mil,2371mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3361mil,2371mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3367mil,2362mil)(3367mil,2371mil) on Top And Arc (3361mil,2371mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3349mil,2362mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3349mil,2362mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3349mil,2362mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3355mil,2362mil)(3355mil,2371mil) on Top And Arc (3349mil,2362mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3337mil,2377mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3337mil,2377mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3283mil,2366mil)(3283mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3283mil,2366mil)(3283mil,2390.6mil) on Top And Arc (3289mil,2390.6mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3301mil,2374mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3301mil,2374mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3301mil,2374mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3295mil,2374mil)(3295mil,2390.6mil) on Top And Arc (3301mil,2374mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3313mil,2392mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3313mil,2392mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3313mil,2392mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3307mil,2374mil)(3307mil,2392mil) on Top And Arc (3313mil,2392mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3325mil,2357.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3325mil,2357.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3325mil,2357.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3319mil,2357.5mil)(3319mil,2392mil) on Top And Arc (3325mil,2357.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3331mil,2357.5mil)(3331mil,2377mil) on Top And Arc (3337mil,2377mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3343mil,2362mil)(3343mil,2377mil) on Top And Arc (3337mil,2377mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3277mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3271mil,2361mil)(3271mil,2425mil) on Top And Arc (3277mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3277mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3271mil,2361mil)(3271mil,2425mil) on Top And Arc (3277mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3283mil,2414.6mil)(3283mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3289mil,2414.6mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3301mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3301mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3301mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3295mil,2414.6mil)(3295mil,2425mil) on Top And Arc (3301mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3313mil,2416mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3313mil,2416mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3331mil,2401mil)(3331mil,2425mil) on Top And Arc (3337mil,2401mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3337mil,2395mil)(3362.5mil,2395mil) on Top And Arc (3337mil,2401mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3325mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3331mil,2401mil)(3331mil,2425mil) on Top And Arc (3325mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3325mil,2425mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3331mil,2401mil)(3331mil,2425mil) on Top And Arc (3325mil,2425mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3319mil,2416mil)(3319mil,2425mil) on Top And Arc (3313mil,2416mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3307mil,2416mil)(3307mil,2425mil) on Top And Arc (3313mil,2416mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3304mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3304mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3304mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3304mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3316mil,2128mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3316mil,2128mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3316mil,2128mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3310mil,2128mil)(3310mil,2158mil) on Top And Arc (3316mil,2128mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3328mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3328mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3328mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3322mil,2128mil)(3322mil,2158mil) on Top And Arc (3328mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3217mil,2182mil)(3217mil,2193.5mil) on Top And Arc (3223mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3223mil,2176mil)(3364mil,2176mil) on Top And Arc (3223mil,2182mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3217mil,2182mil)(3217mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3217mil,2182mil)(3217mil,2193.5mil) on Top And Arc (3211mil,2193.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3199mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3199mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3199mil,2182mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3205mil,2182mil)(3205mil,2193.5mil) on Top And Arc (3199mil,2182mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3181mil,2182mil)(3181mil,2217mil) on Top And Arc (3187mil,2217mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3187mil,2217mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3181mil,2182mil)(3181mil,2217mil) on Top And Arc (3187mil,2217mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3193mil,2182mil)(3193mil,2217mil) on Top And Arc (3187mil,2217mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3181mil,2182mil)(3181mil,2217mil) on Top And Arc (3175mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3113mil,2176mil)(3175mil,2176mil) on Top And Arc (3175mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3274mil,2105.8mil)(3274mil,2119mil) on Top And Arc (3280mil,2119mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3280mil,2119mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3274mil,2105.8mil)(3274mil,2119mil) on Top And Arc (3280mil,2119mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3280mil,2119mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3292mil,2117.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3292mil,2117.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3286mil,2117.5mil)(3286mil,2119mil) on Top And Arc (3292mil,2117.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3298mil,2117.5mil)(3298mil,2158mil) on Top And Arc (3292mil,2117.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3340mil,2128mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3340mil,2128mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3370mil,2145.4mil)(3370mil,2170mil) on Top And Arc (3364mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3223mil,2176mil)(3364mil,2176mil) on Top And Arc (3364mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3340mil,2128mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3334mil,2128mil)(3334mil,2158mil) on Top And Arc (3340mil,2128mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3352mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3352mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3346mil,2128mil)(3346mil,2158mil) on Top And Arc (3352mil,2158mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3352mil,2158mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3370mil,2145.4mil)(3370mil,2170mil) on Top And Arc (3364mil,2145.4mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3364mil,2145.4mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3370mil,2145.4mil)(3370mil,2170mil) on Top And Arc (3364mil,2145.4mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3358mil,2145.4mil)(3358mil,2158mil) on Top And Arc (3364mil,2145.4mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (2986mil,1803mil)(2986mil,1834mil) on Top And Arc (2992mil,1803mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (2992mil,1803mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3004mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (3004mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3004mil,1822mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (3004mil,1822mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3016mil,1801mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3016mil,1801mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3016mil,1801mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3010mil,1801mil)(3010mil,1822mil) on Top And Arc (3016mil,1801mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3028mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3028mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3028mil,1822mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3022mil,1801mil)(3022mil,1822mil) on Top And Arc (3028mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3040mil,1798mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3040mil,1798mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3034mil,1798mil)(3034mil,1822mil) on Top And Arc (3040mil,1798mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3040mil,1798mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3052mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3052mil,1822mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3052mil,1822mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3046mil,1798mil)(3046mil,1822mil) on Top And Arc (3052mil,1822mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3064mil,1784mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3064mil,1784mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3064mil,1784mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3058mil,1784mil)(3058mil,1822mil) on Top And Arc (3064mil,1784mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3082mil,1776mil)(3082mil,1809mil) on Top And Arc (3076mil,1809mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3076mil,1809mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3082mil,1776mil)(3082mil,1809mil) on Top And Arc (3076mil,1809mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3070mil,1784mil)(3070mil,1809mil) on Top And Arc (3076mil,1809mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2986mil,1803mil)(2986mil,1834mil) on Top And Arc (2992mil,1803mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (2998mil,1803mil)(2998mil,1822mil) on Top And Arc (2992mil,1803mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2176mil)(3415mil,2176mil) on Top And Arc (3400mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3394mil,2131.69mil)(3394mil,2170mil) on Top And Arc (3400mil,2170mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3400mil,2194mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3400mil,2194mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3400mil,2194mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3400mil,2194mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3400mil,2218mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3400mil,2218mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3400mil,2242mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3400mil,2242mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3400mil,2242mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3400mil,2242mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3415mil,2230mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3415mil,2230mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3415mil,2230mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2236mil)(3415mil,2236mil) on Top And Arc (3415mil,2230mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3400mil,2218mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2224mil)(3415mil,2224mil) on Top And Arc (3400mil,2218mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3415mil,2206mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3415mil,2206mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2200mil)(3415mil,2200mil) on Top And Arc (3415mil,2206mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2212mil)(3415mil,2212mil) on Top And Arc (3415mil,2206mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3415mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2176mil)(3415mil,2176mil) on Top And Arc (3415mil,2182mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2188mil)(3415mil,2188mil) on Top And Arc (3415mil,2182mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2176mil)(3415mil,2176mil) on Top And Arc (3415mil,2182mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2260mil)(3415mil,2260mil) on Top And Arc (3415mil,2254mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3415mil,2254mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2260mil)(3415mil,2260mil) on Top And Arc (3415mil,2254mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3400mil,2248mil)(3415mil,2248mil) on Top And Arc (3415mil,2254mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3400mil,2260mil)(3415mil,2260mil) on Top And Arc (3400mil,2266mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3394mil,2266mil)(3394mil,2327mil) on Top And Arc (3400mil,2266mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2859mil,1825mil)(2859mil,1828mil) on Top And Arc (2865mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2865mil,1834mil)(2909.5mil,1834mil) on Top And Arc (2865mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2865mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2859mil,1825mil)(2859mil,1828mil) on Top And Arc (2865mil,1825mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2865mil,1834mil)(2909.5mil,1834mil) on Top And Arc (2865mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2865mil,1825mil) on Top 
+   Violation between Clearance Constraint: (3.22mil < 5.201mil) Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3120mil,1728mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3115mil,1728mil)(3115mil,1729mil) on Top And Arc (3120mil,1728mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3120mil,1723mil)(3139.61mil,1723mil) on Top And Arc (3120mil,1728mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3109mil,1729mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3115mil,1728mil)(3115mil,1729mil) on Top And Arc (3109mil,1729mil) on Top 
+   Violation between Clearance Constraint: (1.81mil < 5.201mil) Between Track (3120mil,1723mil)(3139.61mil,1723mil) on Top And Arc (3109mil,1729mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3076.5mil,1723mil)(3094mil,1723mil) on Top And Arc (3106mil,1729mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3106mil,1729mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (3115mil,1728mil)(3115mil,1729mil) on Top And Arc (3106mil,1729mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3076.5mil,1723mil)(3094mil,1723mil) on Top And Arc (3094mil,1729mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3106mil,1735mil)(3109mil,1735mil) on Top And Arc (3094mil,1729mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2917mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2923mil,1825mil)(2923mil,1828mil) on Top And Arc (2917mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2917mil,1825mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2929mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2929mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2923mil,1825mil)(2923mil,1828mil) on Top And Arc (2929mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2865mil,1819mil)(2917mil,1819mil) on Top And Arc (2929mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2932mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2932mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2932mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2923mil,1825mil)(2923mil,1828mil) on Top And Arc (2932mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2944mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2944mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2944mil,1825mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2929mil,1834mil)(2932mil,1834mil) on Top And Arc (2944mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2947mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2947mil,1825mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2938mil,1825mil)(2938mil,1828mil) on Top And Arc (2947mil,1825mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2959mil,1834mil)(2962mil,1834mil) on Top And Arc (2947mil,1825mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2959mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2944mil,1819mil)(2947mil,1819mil) on Top And Arc (2959mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2968mil,1801mil)(2968mil,1828mil) on Top And Arc (2959mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2959mil,1834mil)(2962mil,1834mil) on Top And Arc (2959mil,1828mil) on Top 
+   Violation between Clearance Constraint: (4.817mil < 5.201mil) Between Track (2953mil,1825mil)(2953mil,1828mil) on Top And Arc (2962mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2968mil,1801mil)(2968mil,1828mil) on Top And Arc (2962mil,1828mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (2959mil,1834mil)(2962mil,1834mil) on Top And Arc (2962mil,1828mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3172mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3166mil,2074mil)(3166mil,2146mil) on Top And Arc (3172mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3172mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3166mil,2074mil)(3166mil,2146mil) on Top And Arc (3172mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3184mil,2080mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3184mil,2080mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3184mil,2080mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3178mil,2080mil)(3178mil,2146mil) on Top And Arc (3184mil,2080mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3196mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3196mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3190mil,2080mil)(3190mil,2146mil) on Top And Arc (3196mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3196mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3208mil,2101mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3208mil,2101mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3208mil,2101mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3202mil,2101mil)(3202mil,2146mil) on Top And Arc (3208mil,2101mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3220mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3220mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3220mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3214mil,2101mil)(3214mil,2146mil) on Top And Arc (3220mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3232mil,2107mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3232mil,2107mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3232mil,2107mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3226mil,2107mil)(3226mil,2146mil) on Top And Arc (3232mil,2107mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3244mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3244mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3244mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3238mil,2107mil)(3238mil,2146mil) on Top And Arc (3244mil,2146mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3262mil,2113.5mil)(3262mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3262mil,2113.5mil)(3262mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3250mil,2113.5mil)(3250mil,2146mil) on Top And Arc (3256mil,2113.5mil) on Top 
+   Violation between Clearance Constraint: (2.485mil < 5.201mil) Between Track (3274mil,2143.5mil)(3274mil,2146mil) on Top And Arc (3268mil,2146mil) on Top 
+   Violation between Clearance Constraint: (Collision < 5.201mil) Between Track (3262mil,2113.5mil)(3262mil,2146mil) on Top And Arc (3268mil,2146mil) on Top 
+Rule Violations :322
+
+Processing Rule : Room vRestrict1 (Bounding Region = (1660mil, 1715mil, 1760mil, 1845mil) (IsVia or IsThruPin)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (WithinRoom('vRestrict1')),(IsVia or IsThruPin)
+Rule Violations :0
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:00

@@ -1,0 +1,112 @@
+Importer Log Report
+Project : A13-OLinuXino-MICRO_Rev_B_saved.PrjPcb
+
+Section : Analyze Document - D:\Github\OLINUXINO\HARDWARE\A13-OLinuXino-MICRO\A13-OLinuXino-MICRO_Rev_B_saved.brd
+    Analyzing data of D:\Github\OLINUXINO\HARDWARE\A13-OLinuXino-MICRO\A13-OLinuXino-MICRO_Rev_B_saved.brd
+    Load settings
+    Load layers 103
+    Load Library "OLIMEX_IC"
+    Load Packages 3
+    Load Library "rcl"
+    Load Packages 5
+    Load Library "gogo"
+    Load Packages 8
+    Load Library "jumper"
+    Load Packages 3
+    Load Library "DOUBLE-SIDE"
+    Load Packages 1
+    Load Library "OLIMEX_DISCRET"
+    Load Packages 5
+    Load Library "crystal"
+    Load Packages 1
+    Load Library "Penko"
+    Load Packages 3
+    Load Library "OLIMEX_CONNECTORS"
+    Load Packages 4
+    Load Library "con-harting-ml"
+    Load Packages 2
+    Load Library "SparkFunEagle-6-6-07"
+    Load Packages 1
+    Load Library "olimex_logo1"
+    Load Packages 6
+    Load Library "74AC244"
+    Load Packages 1
+    Load Library "semicon-smd-ipc"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - D:\Github\OLINUXINO\HARDWARE\A13-OLinuXino-MICRO\A13-OLinuXino-MICRO_Rev_B_saved.sch
+    Analyzing data of D:\Github\OLINUXINO\HARDWARE\A13-OLinuXino-MICRO\A13-OLinuXino-MICRO_Rev_B_saved.sch
+    Load settings
+    Load layers 94
+    Load schematic
+    Load Libraries 16
+    Load Library "OLIMEX_IC"
+    Load Packages 3
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "rcl"
+    Load Packages 335
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "gogo"
+    Load Packages 64
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "jumper"
+    Load Packages 11
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "DOUBLE-SIDE"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "OLIMEX_DISCRET"
+    Load Packages 22
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "crystal"
+    Load Packages 12
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Penko"
+    Load Packages 24
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "OLIMEX_CONNECTORS"
+    Load Packages 13
+    Load Symbols 5
+    Load DeviceSets 4
+    Load Library "con-harting-ml"
+    Load Packages 27
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "SparkFunEagle-6-6-07"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "74AC244"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "semicon-smd-ipc"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 2
+    Load Parts 397
+    Load Sheets 1
+EndSection
